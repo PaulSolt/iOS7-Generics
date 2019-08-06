@@ -2,6 +2,6 @@
 
 import Foundation
 
-var str = "Hello, playground"
+//: Goal: Swap two numbers with a `swap()` function
 
 //: [Next](@next)
